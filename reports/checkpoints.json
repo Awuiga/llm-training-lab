@@ -1,0 +1,46 @@
+{
+  "char_v1/best": {
+    "embedding_dim": 128,
+    "num_heads": 4,
+    "num_layers": 6,
+    "block_size": 128,
+    "vocab_size": 86,
+    "step": 9350,
+    "best_step": 9350,
+    "best_val_loss": 1.3982875347137451,
+    "parameters": 1126742
+  },
+  "char_v1/last": {
+    "embedding_dim": 128,
+    "num_heads": 4,
+    "num_layers": 6,
+    "block_size": 128,
+    "vocab_size": 86,
+    "step": 10000,
+    "best_step": 9350,
+    "best_val_loss": 1.3982875347137451,
+    "parameters": 1126742
+  },
+  "bpe_v2/best": {
+    "step": 4750,
+    "best_step": 4750,
+    "best_val_loss": 3.8321166038513184,
+    "vocab_size": 2048,
+    "block_size": 256,
+    "embedding_dim": 128,
+    "num_heads": 4,
+    "num_layers": 6,
+    "parameters": 1647360
+  },
+  "bpe_v2/last": {
+    "step": 5000,
+    "best_step": 4750,
+    "best_val_loss": 3.8321166038513184,
+    "vocab_size": 2048,
+    "block_size": 256,
+    "embedding_dim": 128,
+    "num_heads": 4,
+    "num_layers": 6,
+    "parameters": 1647360
+  }
+}

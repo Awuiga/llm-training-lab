@@ -1,0 +1,13 @@
+step,train_loss,val_loss,source
+100,5.995696067810059,6.008559226989746,user_console
+500,,4.9088,chat_summary_rounded
+1000,,4.5919,chat_summary_rounded
+1500,,4.436,chat_summary_rounded
+2000,,4.3415,chat_summary_rounded
+2500,,4.2732,chat_summary_rounded
+3000,,4.207,chat_summary_rounded
+3500,,4.051,chat_summary_rounded
+4000,,4.0058,chat_summary_rounded
+4500,,3.855,chat_summary_rounded
+4750,,3.8321166038513184,local_best_checkpoint
+5000,3.8036141,3.8669281,user_provided_final_metrics

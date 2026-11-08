@@ -1,0 +1,42 @@
+# Окружение и кэш
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Локальные настройки и доступы
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+config.local.*
+config.ini
+config.yaml
+config.yml
+
+# Исходные корпуса, токены, веса и рабочие журналы
+data/**
+!data/tokenizer_v2.json
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.log
+logs/
+runs/
+wandb/
+experiments/**
+*.zip

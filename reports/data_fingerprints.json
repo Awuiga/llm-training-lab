@@ -1,0 +1,30 @@
+{
+  "data/stories.txt": {
+    "bytes": 25579222,
+    "sha256": "2312b71ac90390ebc600a005f62e13cc8788b625d86741ce0064f56835d5f1c7"
+  },
+  "data/tokenizer_v2.json": {
+    "bytes": 160713,
+    "sha256": "17fe37b6373690c3c826e8011c647b38a4aa1234970388b6d3d97836a289271e"
+  },
+  "data/train.txt": {
+    "bytes": 4677,
+    "sha256": "8b156f0659146d5a76543412b5d8c4e7416ef3be2e37b8961b20c8540cb72e0e"
+  },
+  "data/train_v2.pt": {
+    "bytes": 34356592,
+    "sha256": "b359ebf7d986ca4e653817c49503cac72bda0b87ef1500463a16449cfc101e6f"
+  },
+  "data/train_v2.txt": {
+    "bytes": 23024326,
+    "sha256": "b645dcfcb8ef85993f760652aafc218a06fe25e76a09dc83229f02a95e6988f4"
+  },
+  "data/val_v2.pt": {
+    "bytes": 3821410,
+    "sha256": "e74bc750e0b8feae1e0cd48bf74a8e70089958f97da1a66e8ddf899ae00edc53"
+  },
+  "data/val_v2.txt": {
+    "bytes": 2554888,
+    "sha256": "4e6d31ca254465cd8134148e066acef889372e7f399b3ac00e58aae012570379"
+  }
+}
